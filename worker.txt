@@ -1,0 +1,5 @@
+Name      Id   Age  Designation Shift  Salary
+----      --   ---  ----------- -----  ------
+Bayazid   12   42   labour	Night  2500   
+sumon     25   12   foreman     day    3000
+Karim     203  25   manager     day    5000

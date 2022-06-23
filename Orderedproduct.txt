@@ -1,0 +1,4 @@
+Customer code  size
+-------  ----  ----  
+bayazid  x5     54   
+bayazid  xd     23   

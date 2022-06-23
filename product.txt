@@ -1,0 +1,4 @@
+Product  Code   Color
+-------  ----   -----
+
+shirt    x5     black 
